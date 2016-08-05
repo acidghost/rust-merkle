@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Andrea Jemmett <andreajemmett@gmail.com>"]
 
 [dependencies]
+rust-crypto = "^0.2"
